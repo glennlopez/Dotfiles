@@ -30,10 +30,8 @@ autocmd VimEnter * let g:gitgutter_enabled = 1
 "All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
-"To ignore plugin indent changes, instead use:
-"filetype plugin on
-"
-" Brief help
+
+"Brief help
 " :PluginList       - lists configured plugins
 " :PluginInstall    - installs plugins; append `!` to update or just :PluginUpdate
 " :PluginSearch foo - searches for foo; append `!` to refresh local cache
