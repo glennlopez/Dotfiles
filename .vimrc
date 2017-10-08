@@ -24,6 +24,7 @@ Plugin 'bling/vim-airline'
 Plugin 'scrooloose/syntastic'                   "sytax checker
 Plugin 'mhinz/vim-signify'
 Plugin 'motemen/git-vim'
+"Plugin 'chrisbra/vim-diff-enhanced'
 
 autocmd VimEnter * let g:gitgutter_enabled = 1
 
