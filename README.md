@@ -4,6 +4,7 @@ Useful links
 * [Vundle](https://github.com/VundleVim/Vundle.vim) Plugin Manager for vim
 * [VimAwesome](https://vimawesome.com) Plugin search engine
 * [TMux](https://github.com/tmux/tmux/wiki) Terminal Multiplexer
+* [Powerline](https://github.com/powerline/powerline) Status line plugin for zsh
 
 Extras
 ---
